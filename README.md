@@ -1,4 +1,4 @@
-# This is for the 8/31 GW coding club talk 
+# Using Large Language Models (LLMs) To Write Better Code
 
 ### Topics
 
