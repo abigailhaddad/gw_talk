@@ -3,6 +3,7 @@
 ### Topics
 
 * We're going to talk briefly about technical debt, LLMs, and functions and refactoring.
+  * Link to slides: https://docs.google.com/presentation/d/1lPoZs7j48xQtZaBsmJUJDpx10XzZk1UANNtE4O27zCc/edit#slide=id.g27a2f62a92f_0_50
 
 * Then we're going to improve some code. 
 
